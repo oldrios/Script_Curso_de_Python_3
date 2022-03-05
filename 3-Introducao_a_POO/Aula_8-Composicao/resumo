@@ -1,0 +1,6 @@
+-> Composição:
+        Acontece quando temos duas classes que funcionam de maneira com que uma classe dependa de
+    outra classe para criar instâncias (objetos), ou seja, uma classe A só irá criar um objeto a
+    a partir de um comportamento de um objeto da classe B.
+        Sendo assim, é uma 'classe que compõe uma outra classe' onde classe A é afetada através de
+    um comportamento da classe B e todo seu comportamento é inerente a esse relacionamento.

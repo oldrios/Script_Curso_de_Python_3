@@ -1,0 +1,3 @@
+import gerador
+
+gerador.executor()

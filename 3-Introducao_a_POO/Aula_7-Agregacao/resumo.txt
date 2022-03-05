@@ -1,0 +1,4 @@
+-> Agregação:
+        Acontece quando temos duas classes que funcionam de maneira distintas porém, uma classe de
+    certa forma depende de outra para formar/complementar objetos. Geralmente utilizamos quando
+    queremos que um objeto seja parte de outro objeto, como um complemento.

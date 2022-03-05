@@ -1,0 +1,15 @@
+-> Associação:
+        Acontece quando temos duas classes que funcionam de maneira distintas e, dessa forma uma
+    classe não depende da outra para existir/formar objetos. Geralmente utilizamos quando queremos
+    que um objeto ou o (comportamento dele) seja também um atributo do objeto que estamos criando.
+        O exemplo utilizado em aula foi a criação de um objeto (Escritor) que seria associado a um
+    outro objeto (Caneta) independente, e além de associar o próprio objeto (no caso, associar objeto
+    Caneta ao objeto Escritor) utilizamos o comportamento de Caneta "dentro" do Escritor, pois um
+    atributo de um objeto do tipo Escritor passa a ser um objeto de classe Caneta.
+        O método de associação foi executado a partir de um setter executado na classe Escritor que
+    insere um valor no atributo do objeto self.__ferramenta (que por padrão tem um valor None) e a partir
+    do momento que criamos um objeto da classe Caneta com a variável de referência chamada 'caneta' e
+    atribuimos esse objeto 'caneta' ao atributo .__ferramenta do objeto da classe Escritor, nesse momento
+    o objeto 'caneta' é um atributo que está associado ao objeto da classe Escritor.
+        Sendo assim, os dois objetos são idependentes e seus comportamentos independentes e o que acontece
+    é uma associação onde o objeto se torna um atributo de outro objeto.

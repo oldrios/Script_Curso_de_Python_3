@@ -1,0 +1,7 @@
+ERROR: Motorola V3 está desligado, ligue o dispositivo.
+ERROR: Motorola V3 está desligado, ligue o dispositivo.
+INFO: Motorola V3 agora está conectado.
+ERROR: Motorola V3 já está conectado.
+ERROR: Motorola V3 está desligado, ligue o dispositivo.
+ERROR: Motorola V3 não está conectado!
+INFO: Motorola V3 agora está conectado.

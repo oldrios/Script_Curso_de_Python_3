@@ -1,0 +1,3 @@
+import validacoes
+
+validacoes.executor()
